@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="open16">icons/open16.png</file>
+        <file alias="quit16">icons/quit16.png</file>
+        <file alias="run16">icons/run16.png</file>
+        <file alias="runall16">icons/runall16.png</file>
+    </qresource>
+</RCC>
